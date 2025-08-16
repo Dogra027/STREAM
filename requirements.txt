@@ -2,10 +2,11 @@ streamlit==1.47.1
 pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.6.1
-sklearn
+
 
 torch==2.2.2
 torchvision==0.17.2
 matplotlib==3.8.3
 networkx==3.3
+
 
