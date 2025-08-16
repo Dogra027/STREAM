@@ -15,11 +15,6 @@ try:
 except Exception:  # ImportError or envs without GUI libs
     st = None
 
-from typing import Dict, List, Tuple, Optional, Any
-
-
-import shap
-from lime.lime_tabular import LimeTabularExplainer
 
 # =============================================================================
 # 0) CONFIG
