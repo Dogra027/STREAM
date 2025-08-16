@@ -16,7 +16,7 @@ except Exception:  # ImportError or envs without GUI libs
     st = None
 
 from typing import Dict, List, Tuple, Optional, Any
-from sklearn.ensemble import RandomForestRegressor
+
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
